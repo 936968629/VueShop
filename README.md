@@ -1,2 +1,0 @@
-# VueShop
-django+Vue
